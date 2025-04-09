@@ -1,6 +1,7 @@
-const cars = ["tata","bmw","volvo"]
+const cars = ["tata","bmw",]
 cars [0] = "mahen";
 console.log(cars)
+
 cars.push("bmw");
 console.log(cars)
 cars.pop("bmw");
